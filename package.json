@@ -1,0 +1,26 @@
+{
+  "name": "capital2sm",
+  "version": "1.0.0",
+  "description": "capital2sm electron version",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ndong/Capital2sm.git"
+  },
+  "author": "1ndong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ndong/Capital2sm/issues"
+  },
+  "homepage": "https://github.com/1ndong/Capital2sm#readme",
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "cross-env": "^7.0.3",
+    "electron": "^13.2.1",
+    "electron-builder": "^22.11.7",
+    "typescript": "^4.3.5"
+  }
+}
